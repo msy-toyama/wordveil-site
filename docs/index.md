@@ -1,9 +1,4 @@
 
----
-layout: default
-title: Wordveil 公式ドキュメント
----
-
 # Wordveil 公式ドキュメント
 
 英語学習アプリ **Wordveil** のポリシーおよび重要なお知らせを掲載しています。  
